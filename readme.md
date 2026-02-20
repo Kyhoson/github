@@ -119,3 +119,4 @@ Soubor `config.json` je ignorován pomocí `.gitignore`, protože obsahuje citli
 ## Autor
 
 Ondřej Kýhos, Svatek Adam a Pepa Lyžmi
+tgffghjhfjh
